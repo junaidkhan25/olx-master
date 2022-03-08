@@ -1,0 +1,146 @@
+.top{
+    /* border: 2px solid rgb(139, 52, 46); */
+    background-color: #F7F8F8;
+}
+.top1 {
+    display: flex; 
+    /* border: 2px solid seagreen; */
+    /* margin-left: 20px; */
+    margin: 2px 2px 1px 20px;
+}
+.top1 img{
+    /* border: 1px solid yellow; */
+    margin-left: 20px;
+    margin-top: 5px;
+}
+.img2{
+    /* border: 1px solid red; */
+    margin-top: 6px;
+    padding-top: 4px;
+}
+.navd{
+    margin: 10px 2px 1px 20px;
+    display: flex;
+    
+   
+   
+}
+.dropdown{
+    margin-top: 3px; 
+    height: 50px;
+    border: 1px solid black;
+    border-radius:3%
+    
+    
+}
+.drop1{
+    width: 200px;
+    height: 50px;
+    
+}
+.searchnav{
+    margin-left: 20px;
+    margin-top: -3px;
+    margin-bottom: 1px;
+    /* border: 5px solid rgb(79, 46, 139);  */
+    
+}
+.searchnav i{
+    color: white;
+}
+.search{
+    width: 800px !important;
+    margin-left: 20px;
+    height: 50px !important;
+    
+}
+
+
+.logind{
+    text-decoration: underline;
+    font-weight: bold;
+    color: black;
+    /* border: 1px solid orange; */
+    margin-left: 10px;
+    margin-top: 10px;
+}
+.logind:hover{
+    text-decoration: none;
+}
+.ring{
+    margin-left: 20px;
+}
+.list{
+    display: flex;
+    
+}
+.list li{
+    list-style: none;
+    margin-left: 30px;
+    /* border: 1px solid rgb(231, 12, 12);    */
+}
+.list li i{
+    font-size: large;
+}
+.list li:hover{
+    color: blue ;
+}
+.allcat{
+    color: black !important;
+} 
+.heading{
+    margin: 50px 0px 1px 50px;
+}
+.cards{
+    margin: 5px 50px 5px 50px;
+    /* border: 1px solid brown; */
+}
+.card-img-top{
+    margin-top: 20px;
+    height: 60%;
+    width: 50%;
+    /* border: 1px solid rgb(165, 42, 155); */
+}
+.btn1{
+    margin-top: 20px;
+    margin-bottom: 20px;
+    text-align: center;
+}
+.footer{
+    /* border: 1px solid rgb(0, 255, 64); */
+    background-color: #EBEEEF;
+}
+.end{
+    display: flex;
+    font-size: small;
+    
+    /* border: 1px solid red; */
+}
+.end li{
+    
+    list-style: none;
+    margin-top: 10px;
+    margin-left: 50px;
+    color: #a8c4ce
+}
+.end li:hover{
+    color: black;
+    cursor: pointer;
+}
+.same{
+    color: black !important
+    
+}
+.sociallinks{
+    font-size: medium;
+    margin-left: 20px;
+}
+.sociallinks:hover{
+    cursor: pointer;
+}
+.linkstabs{
+    margin: 20px 10px 8px 40px;
+}
+.linkstabs:hover{
+    cursor: pointer;
+}
